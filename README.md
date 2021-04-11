@@ -9,5 +9,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about Data Engineering, Apache Airflow, Pyspark, AWS, Azure
 - 📫 How to reach me: https://www.linkedin.com/in/srinidhi-s/
 
-Website: https://nidhi.codes/
+#### Website
+https://nidhi.codes/
 
+#### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
