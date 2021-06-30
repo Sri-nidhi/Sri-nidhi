@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 #### Website
 https://nidhi.codes/
 
+#### Talks
+Youtube - Getting started with Apache Airflow - https://www.youtube.com/watch?v=iKGdg4MDEBI
+
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Data Engineering Series #3: Apache Airflow - the modern Workflow management tool. Getting Started](https://dev.to/srinidhi/data-engineering-series-3-apache-airflow-the-modern-workflow-management-tool-what-do-you-need-to-know-78l)
