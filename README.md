@@ -21,3 +21,6 @@ Youtube - Getting started with Apache Airflow - https://www.youtube.com/watch?v=
 - [Data Engineering Series #2: Cloud Services and FOSS in Data Engineer&#39;s world](https://dev.to/srinidhi/data-engineering-series-2-cloud-services-and-foss-in-data-engineer-s-world-5c46)
 - [Data Engineering Series #1: 10 Key tech skills you need, to become a competent Data Engineer.](https://dev.to/srinidhi/data-engineering-series-1-10-key-tech-skills-you-need-to-become-a-competent-data-engineer-2n46)
 <!-- BLOG-POST-LIST:END -->
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sri-nidhi)
