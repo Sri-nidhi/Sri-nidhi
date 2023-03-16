@@ -23,4 +23,4 @@ Youtube - Getting started with Apache Airflow - https://www.youtube.com/watch?v=
 <!-- BLOG-POST-LIST:END -->
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sri-nidhi)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sri-nidhi&hide=issues)
