@@ -9,9 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Data Engineering, Apache Airflow, Pyspark, AWS, Azure
 - 📫 How to reach me: https://www.linkedin.com/in/srinidhi-s/
 
-#### Website
-https://nidhi.codes/
-
 #### Talks
 Youtube - Getting started with Apache Airflow - https://www.youtube.com/watch?v=iKGdg4MDEBI
 
