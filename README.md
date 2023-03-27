@@ -7,7 +7,7 @@
 - 💬 Ask me about Data Engineering, Apache Airflow, Pyspark, AWS, Azure, Snowflake, dbt
 - 📫 How to reach me: https://www.linkedin.com/in/srinidhi-s/
 
-Tools & Tech:
+<!-- Tools & Tech:
 
 <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg"/>
 <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
@@ -19,7 +19,7 @@ Tools & Tech:
 <img align="left" alt="Jenkins" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
 <!-- <img align="left" alt="Jenkins" width="60px" style="padding-right:10px;" src="https://simpleicons.org/icons/jenkins.svg"/>
 <img align="left" alt="Jenkins" width="60px" style="padding-right:10px;" src="https://simpleicons.org/icons/jenkins.svg"/>
-             -->
+             --> -->
           
 <br/>
           
