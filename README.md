@@ -17,9 +17,9 @@ Tools & Tech:
 <img align="left" alt="Terraform" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg"/>
 <img align="left" alt="Github" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
 <img align="left" alt="Jenkins" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
+<!-- <img align="left" alt="Jenkins" width="80px" style="padding-right:10px;" src="https://simpleicons.org/icons/jenkins.svg"/>
 <img align="left" alt="Jenkins" width="80px" style="padding-right:10px;" src="https://simpleicons.org/icons/jenkins.svg"/>
-<img align="left" alt="Jenkins" width="80px" style="padding-right:10px;" src="https://simpleicons.org/icons/jenkins.svg"/>
-            
+             -->
           
 <br/>
           
