@@ -7,6 +7,22 @@
 - 💬 Ask me about Data Engineering, Apache Airflow, Pyspark, AWS, Azure, Snowflake, dbt
 - 📫 How to reach me: https://www.linkedin.com/in/srinidhi-s/
 
+Tools & Tech:
+
+<img align="left" alt="Java" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg"/>
+<img align="left" alt="Java" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+ <img align="left" alt="Java" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+<!-- <img align="left" alt="Java" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg"/> 
+ -->
+
+
+<br/>  
+            
+          
+<br/>
+          
+
+
 #### Talks
 Youtube - Getting started with Apache Airflow - https://www.youtube.com/watch?v=iKGdg4MDEBI
 #### Blog posts
