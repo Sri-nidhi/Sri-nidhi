@@ -6,8 +6,6 @@
 - Have exposure in both AWS and Azure shop
 - Looking to collaborate on Data Engineering Projects, Tech Talks and Technical Content Writing
 - 💬 Ask me about Data Engineering, Apache Airflow, Pyspark, AWS, Azure, Snowflake, dbt
-- 📫 How to reach me: 
-
 
 
 <!-- Tools & Tech:
