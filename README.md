@@ -55,9 +55,9 @@ Youtube - Getting started with Apache Airflow - https://www.youtube.com/watch?v=
  -->
  
 
-<table style="border-collapse: collapse; border: none;">
+<table>
   <tr>
-    <td style="border: none;">
+    <td>
       <img src="https://img.shields.io/badge/Apache%20Spark-black?style=for-the-badge&logo=apache-spark&logoColor=E25A1C">
       <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=FFE873">
       <img src="https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform&logoColor=7B42BC">
@@ -67,7 +67,7 @@ Youtube - Getting started with Apache Airflow - https://www.youtube.com/watch?v=
       <img src="https://img.shields.io/badge/Azure%20DevOps-black?style=for-the-badge&logo=azure-devops&logoColor=0078D7">
       <img src="https://img.shields.io/badge/dbt-black?style=for-the-badge&logo=dbt&logoColor=23E34F26">
     </td>
-    <td style="border: none;">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Sri-nidhi&hide=issues" alt="My GitHub stats">
     </td>
   </tr>
