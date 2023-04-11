@@ -17,19 +17,10 @@
  <img align="left" alt="Java" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg"/> 
 -->
 
-#### Tools & Tech:
-             
- <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>             
-<img align="left" alt="Terraform" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg"/>
-<img align="left" alt="Github" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
-<img align="left" alt="Jenkins" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-
 
 <!-- <img align="left" alt="Jenkins" width="60px" style="padding-right:10px;" src="https://simpleicons.org/icons/jenkins.svg"/>
 <img align="left" alt="Jenkins" width="60px" style="padding-right:10px;" src="https://simpleicons.org/icons/jenkins.svg"/>
 -->
-<br>
 <br>
 
 #### Blog posts
@@ -41,10 +32,18 @@
 
 #### Talks
 Youtube - Getting started with Apache Airflow - https://www.youtube.com/watch?v=iKGdg4MDEBI
+<br>
 
 
-<!--
-<p align="center">
+#### Tools & Tech:
+             
+ <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>             
+<img align="left" alt="Terraform" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg"/>
+<img align="left" alt="Github" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+<img align="left" alt="Jenkins" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Sri-nidhi&hide=issues" alt="My GitHub stats">
 </p>
--->
+
