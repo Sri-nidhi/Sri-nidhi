@@ -22,19 +22,19 @@
 -->
 <br>
 
-#### Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Data Engineering Series #3: Apache Airflow - the modern Workflow management tool. Getting Started](https://dev.to/srinidhi/data-engineering-series-3-apache-airflow-the-modern-workflow-management-tool-what-do-you-need-to-know-78l)
 - [Data Engineering Series #2: Cloud Services and FOSS in Data Engineer&#39;s world](https://dev.to/srinidhi/data-engineering-series-2-cloud-services-and-foss-in-data-engineer-s-world-5c46)
 - [Data Engineering Series #1: 10 Key tech skills you need, to become a competent Data Engineer.](https://dev.to/srinidhi/data-engineering-series-1-10-key-tech-skills-you-need-to-become-a-competent-data-engineer-2n46)
 <!-- BLOG-POST-LIST:END -->
 
-#### Talks
+### Talks
 Youtube - Getting started with Apache Airflow - https://www.youtube.com/watch?v=iKGdg4MDEBI
 <br>
 
 
-#### Tools & Tech:
+### Tools & Tech:
              
 <!--  <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>             
 <img align="left" alt="Terraform" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg"/>
@@ -55,7 +55,7 @@ Youtube - Getting started with Apache Airflow - https://www.youtube.com/watch?v=
  <img src="https://github-readme-stats.vercel.app/api?username=Sri-nidhi&hide=issues" alt="My GitHub stats">
  
  
- Check out few of my projects below:
+ ### Check out few of my projects below:
 <!--  
 <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/Sri-nidhi/Sri-nidhi/main/style.css">
 
