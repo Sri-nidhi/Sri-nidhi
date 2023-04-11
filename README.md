@@ -37,13 +37,38 @@ Youtube - Getting started with Apache Airflow - https://www.youtube.com/watch?v=
 
 #### Tools & Tech:
              
- <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>             
+<!--  <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>             
 <img align="left" alt="Terraform" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg"/>
 <img align="left" alt="Github" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
 <img align="left" alt="Jenkins" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+ -->
+<!-- ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-black?style=for-the-badge&logo=apache-spark&logoColor=E25A1C)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=FFE873)
+![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform&logoColor=7B42BC)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032)
+<br>
+![Snowflake](https://img.shields.io/badge/Snowflake-black?style=for-the-badge&logo=snowflake&logoColor=55CDFC)
+![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-black?style=for-the-badge&logo=apache-cassandra&logoColor=70A4CD)
+![Azure Devops](https://img.shields.io/badge/Azure%20DevOps-black?style=for-the-badge&logo=azure-devops&logoColor=0078D7)
+![Dbt](https://img.shields.io/badge/dbt-black?style=for-the-badge&logo=dbt&logoColor=23E34F26)
+ -->
+<table>
+  <tr>
+    <td style="border: none;">
+      <img src="https://img.shields.io/badge/Apache%20Spark-black?style=for-the-badge&logo=apache-spark&logoColor=E25A1C">
+      <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=FFE873">
+      <img src="https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform&logoColor=7B42BC">
+      <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032"><br>
+      <img src="https://img.shields.io/badge/Snowflake-black?style=for-the-badge&logo=snowflake&logoColor=55CDFC">
+      <img src="https://img.shields.io/badge/Apache%20Cassandra-black?style=for-the-badge&logo=apache-cassandra&logoColor=70A4CD">
+      <img src="https://img.shields.io/badge/Azure%20DevOps-black?style=for-the-badge&logo=azure-devops&logoColor=0078D7">
+      <img src="https://img.shields.io/badge/dbt-black?style=for-the-badge&logo=dbt&logoColor=23E34F26">
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sri-nidhi&hide=issues" alt="My GitHub stats">
+    </td>
+  </tr>
+</table>
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sri-nidhi&hide=issues" alt="My GitHub stats">
-</p>
 
