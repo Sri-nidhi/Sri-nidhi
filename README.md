@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Spark
-- 🌱 Have exposure in both AWS and Azure shop
-- 👯 I’m looking to collaborate on Data Engineering Projects, Tech Talks and Technical Content Writing
+- I’m currently working on Spark
+- Have exposure in both AWS and Azure shop
+- Looking to collaborate on Data Engineering Projects, Tech Talks and Technical Content Writing
 - 💬 Ask me about Data Engineering, Apache Airflow, Pyspark, AWS, Azure, Snowflake, dbt
 - 📫 How to reach me: https://www.linkedin.com/in/srinidhi-s/
 
