@@ -54,6 +54,7 @@ Youtube - Getting started with Apache Airflow - https://www.youtube.com/watch?v=
 ![Dbt](https://img.shields.io/badge/dbt-black?style=for-the-badge&logo=dbt&logoColor=23E34F26)
  -->
  
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/Sri-nidhi/Sri-nidhi/main/style.css">
 
 <table>
   <tr>
