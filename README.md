@@ -1,3 +1,4 @@
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/srinidhi-s/)
 ### Hi there 👋
 
 
@@ -5,7 +6,7 @@
 - Have exposure in both AWS and Azure shop
 - Looking to collaborate on Data Engineering Projects, Tech Talks and Technical Content Writing
 - 💬 Ask me about Data Engineering, Apache Airflow, Pyspark, AWS, Azure, Snowflake, dbt
-- 📫 How to reach me: https://www.linkedin.com/in/srinidhi-s/
+- 📫 How to reach me: 
 
 
 
