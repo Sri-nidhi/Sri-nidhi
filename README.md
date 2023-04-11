@@ -53,7 +53,9 @@ Youtube - Getting started with Apache Airflow - https://www.youtube.com/watch?v=
 ![Azure Devops](https://img.shields.io/badge/Azure%20DevOps-black?style=for-the-badge&logo=azure-devops&logoColor=0078D7)
 ![Dbt](https://img.shields.io/badge/dbt-black?style=for-the-badge&logo=dbt&logoColor=23E34F26)
  -->
-<table>
+ 
+
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;">
       <img src="https://img.shields.io/badge/Apache%20Spark-black?style=for-the-badge&logo=apache-spark&logoColor=E25A1C">
