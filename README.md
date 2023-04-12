@@ -30,7 +30,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Talks
-[<img src="https://img.shields.io/badge/AI Engineering-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/watch?v=iKGdg4MDEBI&t=2543s) [Getting started with Airflow](https://www.youtube.com/watch?v=iKGdg4MDEBI&t=2543s)
+[Getting started with Airflow](https://www.youtube.com/watch?v=iKGdg4MDEBI&t=2543s)
 <br>
 
 
