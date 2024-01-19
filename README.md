@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-- I’m currently working Data/MLOps Engineer for a Machine Learning research team @Autodesk
+- I’m currently working as a Data/MLOps Engineer for a Machine Learning research team @Autodesk
 - Have exposure in both AWS and Azure shop
 - Looking to collaborate on Data Engineering Projects, Tech Talks and Technical Content Writing
 - 💬 Ask me about Data Engineering, Apache Airflow, Pyspark, AWS, Azure, Snowflake, dbt
